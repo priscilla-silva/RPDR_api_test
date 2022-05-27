@@ -12,8 +12,19 @@ h1{
   -webkit-text-stroke-color: rgb(119, 0, 255);
 }
 
-.name{
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.name, .name2, .name3{
   font-family: 'Montserrat', sans-serif;
   font-size: 22px;
   color: rgb(119, 0, 255);
+}
+
+img{
+  width: 300px;
+  height: auto;
 }

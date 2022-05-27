@@ -9,7 +9,6 @@ fetch("http://www.nokeynoshade.party/api/queens?limit=50")
     console.log(dragQueens);
 
     const container = document.getElementById("container");
-    const h1 = document.getElementById("title");
     const name = document.querySelector(".name");
     const name2 = document.querySelector(".name2");
     const name3 = document.querySelector(".name3");
