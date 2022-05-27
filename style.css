@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@300;400&display=swap');
+
+body{
+  background-color: rgb(246, 173, 209);
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 72px;
+  color: rgb(249, 112, 181);
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: rgb(119, 0, 255);
+}
+
+.name{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  color: rgb(119, 0, 255);
+}
